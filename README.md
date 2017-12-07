@@ -10,6 +10,7 @@
 * [一次 H5 「保存页面为图片」 的踩坑之旅](https://juejin.im/post/5a17c5e26fb9a04527254689)
 * [JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 * [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+* [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
 
 ### Vue
 * [对vue.js单文件（.vue）进行单元测试](https://mp.weixin.qq.com/s/2zfCdREfWB9VIdwoqwQmhQ)
